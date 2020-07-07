@@ -1,4 +1,4 @@
-# node-sequelize-noupdate-attributes
+# node-sequelize-noupdate-attributes (updated)
 
 A very simple [Sequelize](https://github.com/sequelize/sequelize) plugin which adds **no update** and **readonly** attributes support.
 
